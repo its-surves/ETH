@@ -1,0 +1,40 @@
+1. OhSINT
+https://tryhackme.com/room/ohsint
+
+2. Passive Reconnaissance
+https://tryhackme.com/room/passiverecon
+
+3. Burp Suite: The Basics
+https://tryhackme.com/room/burpsuitebasics
+
+4. Active Reconnaissance
+https://tryhackme.com/room/activerecon
+
+5. Network Services
+https://tryhackme.com/room/networkservices
+
+6. Walking An Application
+https://tryhackme.com/room/walkinganapp
+
+7. Content Discovery
+https://tryhackme.com/room/contentdiscoveryx
+
+8. OWASP Juice Shop
+https://tryhackme.com/room/owaspjuiceshop
+
+9. CSRF
+https://tryhackme.com/room/csrfV2
+
+10. XSS
+https://tryhackme.com/room/axss
+
+https://tryhackme.com/room/googledorking
+
+https://tryhackme.com/room/owasptopten2025one
+
+https://tryhackme.com/room/sakura
+
+https://tryhackme.com/room/searchskills
+
+https://tryhackme.com/room/somesint
+
